@@ -8,14 +8,32 @@ To empower developers with tools that allow real-time tracing, visualization, an
 
 ## What It Does
 
-- **Trace & Visualize**: See the internal reasoning flow of the model during inference
-- **Intervene**: Pause and alter the thought path in real time
-- **Understand**: Connect neural decisions with human logic for alignment and safety
+- **Trace & Visualize**: Capture and display the internal reasoning process of an AI model step by step.
+- **Intervene**: Enable developers to pause inference, inspect the thought flow, and modify or redirect it.
+- **Understand**: Map neural-level decisions to human-understandable logic, enabling deeper alignment and debugging.
+
+## Key Use Cases
+
+- **AI Safety & Alignment**: Identify failure modes, biases, or misalignments in real time.
+- **Research & Education**: Serve as a dynamic teaching tool for understanding model behavior.
+- **Debugging Complex Systems**: Assist engineers in tracing unexpected outputs in multi-step reasoning.
 
 ## Why It Matters
 
-Black-box AI is risky. Cognisync aims to bring AI behavior into the light — making advanced systems more understandable, teachable, and controllable.
+Black-box AI poses major risks in critical applications. Cognisync aims to bring transparency to the inner workings of modern AI — improving safety, trust, and human control over advanced systems.
 
 ---
 
-> This project is currently in **conceptual development**. All rights reserved by the original author.
+> This project is currently in conceptual development. All rights reserved by the original author. For private collaboration inquiries, contact the repository owner directly.
+
+> ---
+
+## Intellectual Property Notice
+
+This concept and all content within this repository, titled **Cognisync**, is the original intellectual property of **Hazem Eskander**, and was published publicly on GitHub on the date of this repository's initial commit.
+
+Any reproduction, replication, or commercial use of this idea or its derivatives without the express written permission of the author is strictly prohibited.
+
+For collaboration, licensing, or acquisition inquiries, please contact the author via the email listed in the GitHub profile or repository.
+
+All rights reserved.
